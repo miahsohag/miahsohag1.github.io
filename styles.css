@@ -341,7 +341,7 @@ img { max-width: 100%; display: block; }
 .about-text p {
   color: var(--text-sm);
   margin-bottom: 14px;
-  font-size: 0.97rem;
+  font-size: 0.95rem;
   line-height: 1.7;
    max-width: 480px;
 
