@@ -518,8 +518,10 @@ img { max-width: 100%; display: block; }
   color: var(--teal);
 }
 
-.tl-body { }
-
+.tl-body { 
+  max-width: 680px;
+  width: 100%;
+}
 .tl-title {
   font-family: var(--ff-display);
   font-size: 1.2rem;
