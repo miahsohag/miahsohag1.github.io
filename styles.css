@@ -467,7 +467,7 @@ img { max-width: 100%; display: block; }
 
 .tl-entry {
   display: grid;
-  grid-template-columns: 180px 1fr;
+  grid-template-columns: 1fr;
   gap: 32px;
   border-left: 2px solid var(--border);
   padding: 0 0 56px 32px;
