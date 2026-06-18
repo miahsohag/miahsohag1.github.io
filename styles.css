@@ -581,7 +581,7 @@ img { max-width: 100%; display: block; }
 }
 
 .project-item p {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
   color: var(--text-sm);
   line-height: 1.6;
 }
