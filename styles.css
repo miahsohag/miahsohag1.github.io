@@ -246,7 +246,27 @@ img { max-width: 100%; display: block; }
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-12px); }
 }
+.dna-svg { height: 300px; }
 
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+/* ---- PROFILE PHOTO ---- */
+.hero-photo {
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.hero-photo img {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--teal);
+  box-shadow: 0 0 0 8px rgba(61, 180, 200, 0.15);
+}
 /* ============================================
    STATS BAR
    ============================================ */
