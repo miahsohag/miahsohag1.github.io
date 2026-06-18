@@ -346,8 +346,8 @@ img { max-width: 100%; display: block; }
   line-height: 1.7;
 
   max-width: 65ch;
-   text-align: justify;
-  text-justify: space-between;
+   text-align: left;
+  text-justify: inter-word;
 }
 
 .about-edu h3 {
