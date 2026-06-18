@@ -340,6 +340,7 @@ img { max-width: 100%; display: block; }
   margin-bottom: 14px;
   font-size: 0.95rem;
   line-height: 1.7;
+  text-align: justify;
 }
 .about-edu h3 {
   font-family: var(--ff-display);
