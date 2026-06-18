@@ -328,7 +328,7 @@ img { max-width: 100%; display: block; }
 }
 
 .about-text h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-family: var(--ff-display);
   font-weight: 700;
   line-height: 1.65;
