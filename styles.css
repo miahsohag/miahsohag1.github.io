@@ -473,6 +473,7 @@ img { max-width: 100%; display: block; }
   padding: 0 0 56px 32px;
   position: relative;
   margin-left: 180px;
+  max-width: 900px;
 }
 
 .tl-entry::before {
