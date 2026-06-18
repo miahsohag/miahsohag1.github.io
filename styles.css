@@ -324,6 +324,10 @@ img { max-width: 100%; display: block; }
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 60px;
   align-items: start;
+
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
 }
 
 .about-text h2 {
@@ -339,6 +343,9 @@ img { max-width: 100%; display: block; }
   color: var(--text-sm);
   margin-bottom: 14px;
   font-size: 0.97rem;
+  line-height: 1.7;
+
+  max-width: 65ch;
 }
 
 .about-edu h3 {
