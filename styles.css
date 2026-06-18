@@ -336,6 +336,7 @@ img { max-width: 100%; display: block; }
   font-weight: 700;
   line-height: 1.35;
    max-width: 480px;
+   margin-bottom: 20px;
 }
 
 .about-text p {
