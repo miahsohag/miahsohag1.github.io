@@ -321,13 +321,11 @@ img { max-width: 100%; display: block; }
 
 .about-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 60px;
   align-items: start;
 }
-.about-text {
-  max-width: 650px;
-}
+
 .about-text h2 {
   font-family: var(--ff-display);
   font-size: 1.6rem;
