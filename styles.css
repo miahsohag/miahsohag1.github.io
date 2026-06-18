@@ -813,7 +813,7 @@ img { max-width: 100%; display: block; }
   font-family: var(--ff-mono);
   font-size: 0.68rem;
   letter-spacing: 0.1em;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: var(--muted);
 }
 
