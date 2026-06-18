@@ -561,7 +561,7 @@ img { max-width: 100%; display: block; }
 .project-item {
   background: var(--light);
   border-left: 3px solid var(--teal);
-  padding: 14px 16px;
+  padding: 18px 22px;
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
