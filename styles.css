@@ -324,15 +324,15 @@ img { max-width: 100%; display: block; }
   grid-template-columns: 1fr;
   gap: 40px;
   align-items: start;
+  max-width: 100%;
 }
 
 .about-text h2 {
   font-size: 1.6rem;
   font-family: var(--ff-display);
   font-weight: 700;
- line-height: 1.65;
-margin-bottom: 20px;
-max-width: 580px;
+  line-height: 1.65;
+  margin-bottom: 20px;
 }
 
 .about-text p {
@@ -340,10 +340,7 @@ max-width: 580px;
   margin-bottom: 14px;
   font-size: 0.95rem;
   line-height: 1.7;
-   max-width: 480px;
-
 }
-
 .about-edu h3 {
   font-family: var(--ff-display);
   font-size: 1rem;
